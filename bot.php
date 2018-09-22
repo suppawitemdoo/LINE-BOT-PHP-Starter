@@ -26,7 +26,7 @@ if (!is_null($events['events'])) {
       } else if ($text == 'ทำอะไรได้บ้าง') {
         $replyText = 'ฉันทำได้หลายอย่าง เช่น บอกคุณว่าเรามีกิจกรรมอะไรบ้างในอนาคต';
       } else {
-        $replyText = 'เราอย่าพูดถึงเรื่องนี้เลยดีกว่า';
+        $replyText = 'ขออีกที..แปลไม่ถูก';
       }
 
       // Build message to reply back
