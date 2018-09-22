@@ -19,7 +19,7 @@ if (!is_null($events['events'])) {
       // Get replyToken
       $replyToken = $event['replyToken'];
 
-      if ($text == 'สวัสดี') {
+      if ($text == 'สวัสดี','หวัดดี','ดี') {
         $replyText = 'สวัสดีเช่นกัน';
       } else if ($text == 'คุณชื่ออะไร') {
         $replyText = 'ศานติโลกา';
