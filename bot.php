@@ -60,4 +60,4 @@ if (!is_null($events['events'])) {
     }
   }
 }
-echo "OK";
+echo "ฉัน บอท น่ะ";
