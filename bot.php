@@ -1,6 +1,6 @@
 <?php
 //require 'vendor/autoload.php';
-$access_token = 'dadjmAevl4HMe3fI/aSiksQa2z5kOHprkc4Brcjm0Ovr6CBDjTpvTJuTrr/V9TVJEwCXDbkLnSwY7EHIle4UpJrXcZa5cFOu9usTFXPDJM2c1c1sXMsZfc37npsIZhFOfFfmG+11c/OjcLYIxjfvFAdB04t89/1O/w1cDnyilFU=
+$access_token = 'dadjmAevl4HMe3fI/aSiksQa2z5kOHprkc4Brcjm0Ovr6CBDjTpvTJuTrr/V9TVJEwCXDbkLnSwY7EHIle4UpJrXcZa5cFOu9usTFXPDJM2c1c1sXMsZfc37npsIZhFOfFfmG+11c/OjcLYIxjfvFAdB04t89/1O/w1cDnyilFU=';
 $proxy = 'velodrome.usefixie.com:80';
 $proxyauth = 'fixie:W8B1EissNtwSwyk';
 
